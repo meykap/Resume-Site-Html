@@ -1021,7 +1021,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Pricing
+# 
 --------------------------------------------------------------*/
 .pricing .box {
   padding: 20px;
@@ -1262,7 +1262,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #ffb727;
+  background: #777777;
   border: 0;
   padding: 10px 24px;
   color: #fff;
